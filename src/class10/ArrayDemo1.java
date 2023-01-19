@@ -8,7 +8,7 @@ package class10;
 * Syntax of Arrays:
 *   We can create arrays in two different ways.
 * First way of crewating arrays:
-*   Datatype[] arr={element 1, element 2, element 3, ....}
+*   Datatype[] arr={element 1, element 2, element 3, ....};
 *   System.out.println(arr[0])
 * Second way of creating arrays:
 *   DataType[] arr=new Datatype[size]

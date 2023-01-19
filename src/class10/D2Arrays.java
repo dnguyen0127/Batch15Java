@@ -2,6 +2,9 @@ package class10;
 
 import java.util.Arrays;
 
+//2D Arrays:
+//      Are Arrays that contain 1D Arrays
+
 public class D2Arrays {
     public static void main(String[] args) {
 
