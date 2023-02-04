@@ -7,9 +7,7 @@ public class ReplPractice {
 
     }
 
-    public static int time(int hours, int minutes){
 
-        System.out.println(hours+":"+minutes);
+    }
 
 
-}
